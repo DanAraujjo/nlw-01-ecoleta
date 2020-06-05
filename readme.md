@@ -9,6 +9,14 @@
 
 A proposta é de um projeto que ajude pessoas a encontrarem pontos de coleta de forma eficiente.
 
+## 🔖 Layout
+
+<img alt="" title="" src=".github/video.gif"  />
+
+Você pode baixar o layout do projeto no formato `.fig` através [desse link](.github/Ecoleta.fig).
+
+Para abrir o arquivo no formato `.fig` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
