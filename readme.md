@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-A proposta é de um projeto que ajude pessoas a encontrarem pontos de coleta de forma eficiente.
+A proposta é de um projeto que ajude as pessoas a encontrarem pontos de coleta de forma eficiente.
 
 ## 🔖 Layout
 
